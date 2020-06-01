@@ -1,0 +1,17 @@
+int z ( )
+{
+	int a = 3 ;
+	double b = 5.7 ;
+	if ( a >= b )
+		b = a + b ;
+	int s = "abcd" ;
+	fun ( a , b , s ) ;
+
+	int 1f , f@ ;
+	s = a +* b ;
+	q = 2. ;
+	x = .2 ;
+	(((
+	"sss
+	'ssss' 
+}
